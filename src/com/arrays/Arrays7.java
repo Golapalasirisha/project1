@@ -1,10 +1,10 @@
-package student1;
+package com.arrays;
 
-public class var1 {
+public class Arrays7 {
 
 	public static void main(String[] args) {
 		
-
+//
 	}
 
 }
